@@ -1,9 +1,9 @@
 # 💫 About Me:
 ## Hi there, I'm Ivan 👋<br>
-<br>🔢Aspiring data scientist <br/>
-<br>🎓Studied Electronics Engineering at the Polytechnic University of the Philippines </br>
-<br>💭Currently learning about data science, AI, and machine learning </br>
-<br>📖Check my published papers at [IEEE](https://ieeexplore.ieee.org/author/247936238263073) </br>
+<br>🔢 Aspiring data scientist <br/>
+<br>🎓 Studied Electronics Engineering at the Polytechnic University of the Philippines </br>
+<br>💭 Currently learning about data science, AI, and machine learning </br>
+<br>📖 Check my published papers at [IEEE](https://ieeexplore.ieee.org/author/247936238263073) </br>
 <br>
 <br>
 
