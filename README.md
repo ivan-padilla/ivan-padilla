@@ -13,7 +13,7 @@
 <br> 🍌 [Performance Evaluation of Yolov8, Yolov9, and Yolov10 Models in Detecting Fusarium Wilt Disease in Banana Leaf Plants](https://ieeexplore.ieee.org/document/10759219) </br>
 <br> 🐣 [Chick-Check: Design and Development of a Feather Sexing Machine for Chicks Using Yolov10 and UV Optical System](https://ieeexplore.ieee.org/document/11258778) </br>
 
-# 💻 Personal Projects
+# ✅ Personal Projects
 <br> 🎧 [Sponty: Visualize Your Listening History](https://sponty.streamlit.app/) </br>
 <br> 📝 [Sentiment Analysis on FB Comments](https://ivan-padilla.github.io/sentiment-analysis-website/) </br>
 <br> 📊 [2025 Midterm Election Results Visualization](https://two025election.onrender.com/) </br>
